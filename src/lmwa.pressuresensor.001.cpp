@@ -43,7 +43,7 @@ String wifistatustoprint;
 
 //Tago.io server address and device token
 char server[] = "api.tago.io";
-String Device_Token = "XXXXXXXXXXXXXXXXXXXXX"; //d1_002_pressure_sensor Default token
+String Device_Token = "44d5862c-c20e-4ba7-bcb6-0c11c9f74985"; //d1_002_pressure_sensor Default token
 //String pressure_string = "";
 
 //Timing
