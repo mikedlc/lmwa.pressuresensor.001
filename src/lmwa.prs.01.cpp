@@ -143,6 +143,7 @@ void setup() {
     delay(8000);
 
     if (WiFi.waitForConnectResult() != WL_CONNECTED){
+      Serial.println("WIFI NOT CONNECTED");
       return;
     }
 
